@@ -4,20 +4,8 @@
   "displayVersion": "1.0.3",
   "releaseNotes": "Published from VKRMssnnsnsn",
   "updateMode": "silent_sync",
-  "generatedAt": 1774449149938,
+  "generatedAt": 1774450307607,
   "fullBundleUrl": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/catalog\/latest.vkrm",
   "servers": [],
-  "payloads": [
-    {
-      "id": "cf-main",
-      "name": "Cloudflare Proxy SNI",
-      "info": "Cloudflare payload for proxy+sni",
-      "icon": "global",
-      "itemType": "payload",
-      "itemVersion": "1.0.0",
-      "source": "github",
-      "branch": "main",
-      "url": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/items\/payloads\/cf-main.vkrm"
-    }
-  ]
+  "payloads": []
 }

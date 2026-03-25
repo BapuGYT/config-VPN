@@ -4,21 +4,9 @@
   "displayVersion": "1.0.3",
   "releaseNotes": "Published from VKRMssnnsnsn",
   "updateMode": "silent_sync",
-  "generatedAt": 1774449107700,
+  "generatedAt": 1774449149938,
   "fullBundleUrl": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/catalog\/latest.vkrm",
-  "servers": [
-    {
-      "id": "jio-4g-5g",
-      "name": "Jio-4G\/5G",
-      "info": "Fuck V2ray, by new Q2ray",
-      "icon": "in",
-      "itemType": "server",
-      "itemVersion": "1.0.0",
-      "source": "github",
-      "branch": "main",
-      "url": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/items\/servers\/jio-4g-5g.vkrm"
-    }
-  ],
+  "servers": [],
   "payloads": [
     {
       "id": "cf-main",

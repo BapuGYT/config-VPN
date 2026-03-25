@@ -1,0 +1,34 @@
+{
+  "schema": "vkrm-online-v1",
+  "catalogVersion": "1.0.0",
+  "displayVersion": "1.0.0",
+  "releaseNotes": "Published from VKRM GEN",
+  "generatedAt": 1774419655480,
+  "fullBundleUrl": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/catalog\/latest.vkrm",
+  "servers": [
+    {
+      "id": "jio-4g-5g",
+      "name": "Jio-4G\/5G",
+      "info": "Fuck V2ray, by new Q2ray",
+      "icon": "in",
+      "itemType": "server",
+      "itemVersion": "1.0.0",
+      "source": "github",
+      "branch": "main",
+      "url": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/items\/servers\/jio-4g-5g.vkrm"
+    }
+  ],
+  "payloads": [
+    {
+      "id": "cf-main",
+      "name": "Cloudflare Proxy SNI",
+      "info": "Cloudflare payload for proxy+sni",
+      "icon": "global",
+      "itemType": "payload",
+      "itemVersion": "1.0.0",
+      "source": "github",
+      "branch": "main",
+      "url": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/items\/payloads\/cf-main.vkrm"
+    }
+  ]
+}

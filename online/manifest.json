@@ -4,8 +4,32 @@
   "displayVersion": "1.0.3",
   "releaseNotes": "Published from VKRMssnnsnsn",
   "updateMode": "silent_sync",
-  "generatedAt": 1774458397874,
+  "generatedAt": 1774519508221,
   "fullBundleUrl": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/catalog\/latest.vkrm",
-  "servers": [],
-  "payloads": []
+  "servers": [
+    {
+      "id": "jio4g-5g-noida",
+      "name": "Jio4G-5G-Noida",
+      "info": "Indian Server Jio4G and 5G",
+      "icon": "jio",
+      "itemType": "server",
+      "itemVersion": "1.0.0",
+      "source": "github",
+      "branch": "main",
+      "url": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/items\/servers\/jio4g-5g-noida.vkrm"
+    }
+  ],
+  "payloads": [
+    {
+      "id": "cf-main",
+      "name": "Jio-SSH-Cloudflare",
+      "info": "Payload for Jio4G & 5G Cloudflare",
+      "icon": "jio",
+      "itemType": "payload",
+      "itemVersion": "1.0.0",
+      "source": "github",
+      "branch": "main",
+      "url": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/items\/payloads\/cf-main.vkrm"
+    }
+  ]
 }

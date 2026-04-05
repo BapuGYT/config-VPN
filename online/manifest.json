@@ -3,10 +3,22 @@
   "catalogVersion": "1.0.4",
   "displayVersion": "1.0.4",
   "releaseNotes": "yele lodeee....",
-  "updateMode": "full_replace",
-  "generatedAt": 1775397646582,
+  "updateMode": "silent_sync",
+  "generatedAt": 1775397679518,
   "fullBundleUrl": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/catalog\/latest.vkrm",
-  "servers": [],
+  "servers": [
+    {
+      "id": "india-hydrabad-cf",
+      "name": "India-Hydrabad-CF",
+      "info": "streaming optimised ⭐",
+      "icon": "in",
+      "itemType": "server",
+      "itemVersion": "1.0.0",
+      "source": "github",
+      "branch": "main",
+      "url": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/items\/servers\/india-hydrabad-cf.vkrm"
+    }
+  ],
   "payloads": [
     {
       "id": "cf-main",

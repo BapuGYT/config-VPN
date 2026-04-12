@@ -1,10 +1,10 @@
 {
   "schema": "vkrm-online-v1",
-  "catalogVersion": "1.0.4",
-  "displayVersion": "1.0.4",
+  "catalogVersion": "1.0.5",
+  "displayVersion": "1.0.5",
   "releaseNotes": "yele lodeee....",
-  "updateMode": "silent_sync",
-  "generatedAt": 1775397679518,
+  "updateMode": "full_replace",
+  "generatedAt": 1775978519171,
   "fullBundleUrl": "https:\/\/raw.githubusercontent.com\/BapuGYT\/config-VPN\/main\/online\/catalog\/latest.vkrm",
   "servers": [
     {
